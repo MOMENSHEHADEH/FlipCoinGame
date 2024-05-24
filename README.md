@@ -1,3 +1,7 @@
+FLIP A COIN GAME
+
+
+
 code flip a coin game code in html & css & javascript ✨
 
 Home Page :
